@@ -740,4 +740,235 @@ Test Softmax---
 Macro-f1: 0.6202134337727558
 Micro-f1: 0.6222222222222222
 Weighted-f1: 0.6231708167678036
- 80%|████████  | 1008/1260 [00:37<00:09, 27.12it/s]
+ 80%|████████  | 1008/1260 [00:37<00:09, 27.12it/s]Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['reut']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['reut']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['acm']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['acm']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['acm']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['webkb']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['webkb']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['webkb']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['yelp_review_2L']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['yelp_review_2L']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['yelp_review_2L']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['pang_movie_2L']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['pang_movie_2L']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['pang_movie_2L']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['sst2']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['sst2']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['sst2']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['reut']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['reut']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['reut']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['acm']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['acm']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['acm']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['webkb']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['webkb']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['webkb']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['yelp_review_2L']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['yelp_review_2L']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['yelp_review_2L']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['pang_movie_2L']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['pang_movie_2L']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['pang_movie_2L']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['sst2']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['sst2']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 54, in <module>
+    ids = pickle.load( open(f'{path}dataset/{dataset}/splits/split_10_with_val.pkl', 'rb') )
+FileNotFoundError: [Errno 2] No such file or directory: "../combinacao_atencao/dataset/['sst2']/splits/split_10_with_val.pkl"
+Traceback (most recent call last):
+  File "classificacao.py", line 55, in <module>
+    x_train_tfidf, y_train, x_val_tfidf, y_val, x_test_tfidf, y_test = load_svmlight_files([open(f'{path}kaggle_tfidf/{dataset}_tfidf_train{index_fold}', 'rb'), open(f'{path}kaggle_tfidf/{dataset}_tfidf_val{index_fold}', 'rb'), open(f'{path}kaggle_tfidf/{dataset}_tfidf_test{index_fold}', 'rb')])
+FileNotFoundError: [Errno 2] No such file or directory: '../combinacao_atencao/kaggle_tfidf/sst2_tfidf_train0'
+Traceback (most recent call last):
+  File "classificacao.py", line 55, in <module>
+    x_train_tfidf, y_train, x_val_tfidf, y_val, x_test_tfidf, y_test = load_svmlight_files([open(f'{path}kaggle_tfidf/{dataset}_tfidf_train{index_fold}', 'rb'), open(f'{path}kaggle_tfidf/{dataset}_tfidf_val{index_fold}', 'rb'), open(f'{path}kaggle_tfidf/{dataset}_tfidf_test{index_fold}', 'rb')])
+FileNotFoundError: [Errno 2] No such file or directory: '../combinacao_atencao/kaggle_tfidf/sst2_tfidf_train1'
+Traceback (most recent call last):
+  File "classificacao.py", line 55, in <module>
+    x_train_tfidf, y_train, x_val_tfidf, y_val, x_test_tfidf, y_test = load_svmlight_files([open(f'{path}kaggle_tfidf/{dataset}_tfidf_train{index_fold}', 'rb'), open(f'{path}kaggle_tfidf/{dataset}_tfidf_val{index_fold}', 'rb'), open(f'{path}kaggle_tfidf/{dataset}_tfidf_test{index_fold}', 'rb')])
+FileNotFoundError: [Errno 2] No such file or directory: '../combinacao_atencao/kaggle_tfidf/sst2_tfidf_train2'
+classificacao.py:155: MatplotlibDeprecationWarning: savefig() got unexpected keyword argument "figsize" which is no longer supported as of 3.3 and will become an error in 3.6
+  plt.savefig(f'fig/{dataset}.jpg', format='jpg', dpi=400, figsize=(20, 10))
+classificacao.py:155: MatplotlibDeprecationWarning: savefig() got unexpected keyword argument "figsize" which is no longer supported as of 3.3 and will become an error in 3.6
+  plt.savefig(f'fig/{dataset}.jpg', format='jpg', dpi=400, figsize=(10, 10))
+classificacao.py:155: MatplotlibDeprecationWarning: savefig() got unexpected keyword argument "figsize" which is no longer supported as of 3.3 and will become an error in 3.6
+  plt.savefig(f'fig/{dataset}.jpg', format='jpg', dpi=400, figsize=(300, 300))
+classificacao.py:155: MatplotlibDeprecationWarning: savefig() got unexpected keyword argument "vmin" which is no longer supported as of 3.3 and will become an error in 3.6
+  plt.savefig(f'fig/{dataset}.jpg', format='jpg', dpi=400, vmin=300)
+classificacao.py:155: MatplotlibDeprecationWarning: savefig() got unexpected keyword argument "vmin" which is no longer supported as of 3.3 and will become an error in 3.6
+  plt.savefig(f'fig/{dataset}.jpg', format='jpg', dpi=400, vmin=400)
+classificacao.py:155: MatplotlibDeprecationWarning: savefig() got unexpected keyword argument "figsize" which is no longer supported as of 3.3 and will become an error in 3.6
+  plt.savefig(f'fig/{dataset}.jpg', format='jpg', dpi=400, figsize=(6, 2))
+classificacao.py:155: MatplotlibDeprecationWarning: savefig() got unexpected keyword argument "figsize" which is no longer supported as of 3.3 and will become an error in 3.6
+  plt.savefig(f'fig/{dataset}.jpg', format='jpg', dpi=400, figsize=(6, 2))
+classificacao.py:155: MatplotlibDeprecationWarning: savefig() got unexpected keyword argument "figsize" which is no longer supported as of 3.3 and will become an error in 3.6
+  plt.savefig(f'fig/{dataset}.jpg', format='jpg', dpi=300, figsize=(6, 6))
+Traceback (most recent call last):
+  File "classificacao.py", line 55, in <module>
+    x_train_tfidf, y_train, x_val_tfidf, y_val, x_test_tfidf, y_test = load_svmlight_files([open(f'{path}kaggle_tfidf/{dataset}_tfidf_train{index_fold}', 'rb'), open(f'{path}kaggle_tfidf/{dataset}_tfidf_val{index_fold}', 'rb'), open(f'{path}kaggle_tfidf/{dataset}_tfidf_test{index_fold}', 'rb')])
+FileNotFoundError: [Errno 2] No such file or directory: '../combinacao_atencao/kaggle_tfidf/sst2_tfidf_train0'
+Traceback (most recent call last):
+  File "classificacao.py", line 89, in <module>
+    webkb = jsonlines.open(f'{nome_experimento}.json')
+  File "/home/claudiovaliense/projetos/combinacao_atencao/virtualenv/lib/python3.8/site-packages/jsonlines/jsonlines.py", line 623, in open
+    fp = builtins.open(file, mode=mode + "t", encoding=encoding)
+FileNotFoundError: [Errno 2] No such file or directory: '../combinacao_atencao/vader/sst2_vader.json'
+Traceback (most recent call last):
+  File "classificacao.py", line 89, in <module>
+    webkb = jsonlines.open(f'{nome_experimento}.json')
+  File "/home/claudiovaliense/projetos/combinacao_atencao/virtualenv/lib/python3.8/site-packages/jsonlines/jsonlines.py", line 623, in open
+    fp = builtins.open(file, mode=mode + "t", encoding=encoding)
+FileNotFoundError: [Errno 2] No such file or directory: '../combinacao_atencao/vader/sst2_vader.json'
+Traceback (most recent call last):
+  File "classificacao.py", line 89, in <module>
+    webkb = jsonlines.open(f'{nome_experimento}.json')
+  File "/home/claudiovaliense/projetos/combinacao_atencao/virtualenv/lib/python3.8/site-packages/jsonlines/jsonlines.py", line 623, in open
+    fp = builtins.open(file, mode=mode + "t", encoding=encoding)
+FileNotFoundError: [Errno 2] No such file or directory: '../combinacao_atencao/vader/sst2_vader.json'
+Traceback (most recent call last):
+  File "classificacao.py", line 89, in <module>
+    webkb = jsonlines.open(f'{nome_experimento}.json')
+  File "/home/claudiovaliense/projetos/combinacao_atencao/virtualenv/lib/python3.8/site-packages/jsonlines/jsonlines.py", line 623, in open
+    fp = builtins.open(file, mode=mode + "t", encoding=encoding)
+FileNotFoundError: [Errno 2] No such file or directory: '../combinacao_atencao/vader/sst2_vader.json'
+Traceback (most recent call last):
+  File "classificacao.py", line 89, in <module>
+    webkb = jsonlines.open(f'{nome_experimento}.json')
+  File "/home/claudiovaliense/projetos/combinacao_atencao/virtualenv/lib/python3.8/site-packages/jsonlines/jsonlines.py", line 623, in open
+    fp = builtins.open(file, mode=mode + "t", encoding=encoding)
+FileNotFoundError: [Errno 2] No such file or directory: '../combinacao_atencao/vader/sst2_vader.json'
+Traceback (most recent call last):
+  File "classificacao.py", line 89, in <module>
+    webkb = jsonlines.open(f'{nome_experimento}.json')
+  File "/home/claudiovaliense/projetos/combinacao_atencao/virtualenv/lib/python3.8/site-packages/jsonlines/jsonlines.py", line 623, in open
+    fp = builtins.open(file, mode=mode + "t", encoding=encoding)
+FileNotFoundError: [Errno 2] No such file or directory: '../combinacao_atencao/vader/sst2_vader.json'
+Traceback (most recent call last):
+  File "classificacao.py", line 89, in <module>
+    webkb = jsonlines.open(f'{nome_experimento}.json')
+  File "/home/claudiovaliense/projetos/combinacao_atencao/virtualenv/lib/python3.8/site-packages/jsonlines/jsonlines.py", line 623, in open
+    fp = builtins.open(file, mode=mode + "t", encoding=encoding)
+FileNotFoundError: [Errno 2] No such file or directory: '../combinacao_atencao/vader/sst2_vader.json'
+Traceback (most recent call last):
+  File "classificacao.py", line 89, in <module>
+    webkb = jsonlines.open(f'{nome_experimento}.json')
+  File "/home/claudiovaliense/projetos/combinacao_atencao/virtualenv/lib/python3.8/site-packages/jsonlines/jsonlines.py", line 623, in open
+    fp = builtins.open(file, mode=mode + "t", encoding=encoding)
+FileNotFoundError: [Errno 2] No such file or directory: '../combinacao_atencao/vader/sst2_vader.json'
+Traceback (most recent call last):
+  File "classificacao.py", line 89, in <module>
+    webkb = jsonlines.open(f'{nome_experimento}.json')
+  File "/home/claudiovaliense/projetos/combinacao_atencao/virtualenv/lib/python3.8/site-packages/jsonlines/jsonlines.py", line 623, in open
+    fp = builtins.open(file, mode=mode + "t", encoding=encoding)
+FileNotFoundError: [Errno 2] No such file or directory: '../combinacao_atencao/vader/sst2_vader.json'
+Traceback (most recent call last):
+  File "classificacao.py", line 89, in <module>
+    webkb = jsonlines.open(f'{nome_experimento}.json')
+  File "/home/claudiovaliense/projetos/combinacao_atencao/virtualenv/lib/python3.8/site-packages/jsonlines/jsonlines.py", line 623, in open
+    fp = builtins.open(file, mode=mode + "t", encoding=encoding)
+FileNotFoundError: [Errno 2] No such file or directory: '../combinacao_atencao/vader/sst2_vader.json'
